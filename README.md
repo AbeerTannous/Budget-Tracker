@@ -1,5 +1,5 @@
 # Budget-Tracker
-This is a Progrisive web application (PWA) for trackeing Budget , where users can track their budget even when they dont have network access . 
+This is a Progrisive web application (PWA) for tracking Budget , where users can track their budget even when they dont have network access . 
 
 
 # User Story
